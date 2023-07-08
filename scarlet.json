@@ -1,5 +1,5 @@
 {
-    "name": "UTM Repository",
+    "name": "PIU Repository",
     "identifier": "com.utmapp.repos.UTM",
     "apps": [{
         "name": "UTM",
