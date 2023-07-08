@@ -1,6 +1,6 @@
 {
-    "name": "PIU IPA Library",
-    "identifier": "xyz.piu.ipalibrary",
+    "name": "CyPwn IPA Library",
+    "identifier": "xyz.cypwn.ipalibrary",
     "apps": [
         {
             "name": "Apollo_1.15.11+Artemis1.3",
