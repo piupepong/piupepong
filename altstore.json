@@ -1,9 +1,9 @@
 {
-    "name": "Piu IPA Library",
-    "identifier": "xyz.piu.ipalibrary",
+    "name": "CyPwn IPA Library",
+    "identifier": "xyz.cypwn.ipalibrary",
     "apps": [
         {
-            "name": "Apollo_1.15.11+Artemis1.3",
+            "name": "ApolloArtemis",
             "bundleIdentifier": "com.christianselig.Apollo",
             "developerName": "Apollo_1.15.11+Artemis1.3 x CyPwn",
             "version": "1.15.11",
@@ -18,7 +18,7 @@
             ]
         },
         {
-            "name": "Surge 5",
+            "name": "Surge",
             "bundleIdentifier": "com.nssurge.kernel.surge-ios.enterprise",
             "developerName": "Surge 5 x CyPwn",
             "version": "5.2.1",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "name": "NicegramPremium1.3.5",
+            "name": "NicegramPremium",
             "bundleIdentifier": "app.nicegram",
             "developerName": "NicegramPremium1.3.5 x CyPwn",
             "version": "1.3.5",
@@ -78,7 +78,7 @@
             ]
         },
         {
-            "name": "YTMusicUltimate_v1.4.1_YTM6.03.1",
+            "name": "YTMusicUltimateYTM",
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "YTMusicUltimate_v1.4.1_YTM6.03.1 x CyPwn",
             "version": "6.03.1",
@@ -93,7 +93,7 @@
             ]
         },
         {
-            "name": "RaceControlF1",
+            "name": "RaceControl",
             "bundleIdentifier": "cypwn.RaceControlF1.1.0",
             "developerName": "RaceControlF1 x CyPwn",
             "version": "1.0",
@@ -108,7 +108,7 @@
             ]
         },
         {
-            "name": "Alook_Browser_17.6",
+            "name": "Alook_Browser",
             "bundleIdentifier": "cypwn.Alook_Browser_17.6.17.6",
             "developerName": "Alook_Browser_17.6 x CyPwn",
             "version": "17.6",
@@ -123,7 +123,7 @@
             ]
         },
         {
-            "name": "YouTubeMurderer_18.15.1",
+            "name": "YouTubeMurderer",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "YouTubeMurderer_18.15.1 x CyPwn",
             "version": "18.15.1",
@@ -138,7 +138,7 @@
             ]
         },
         {
-            "name": "Enmity_175.0",
+            "name": "Enmity",
             "bundleIdentifier": "cypwn.Enmity_175.0.175.0",
             "developerName": "Enmity_175.0 x CyPwn",
             "version": "175.0",
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "name": "InstaRocketPlus_278.0",
+            "name": "InstaRocketPlus",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "InstaRocketPlus_278.0 x CyPwn",
             "version": "278.0",
@@ -183,7 +183,7 @@
             ]
         },
         {
-            "name": "AppDB_1.1.5",
+            "name": "AppDB",
             "bundleIdentifier": "cypwn.AppDB_1.1.5.1.1.5",
             "developerName": "AppDB_1.1.5 x CyPwn",
             "version": "1.1.5",
@@ -198,7 +198,7 @@
             ]
         },
         {
-            "name": "PhotomathPlus_8.21.0",
+            "name": "PhotomathPlus",
             "bundleIdentifier": "cypwn.PhotomathPlus_8.21.0.8.21.0",
             "developerName": "PhotomathPlus_8.21.0 x CyPwn",
             "version": "8.21.0",
@@ -213,7 +213,7 @@
             ]
         },
         {
-            "name": "PeriodicTablePRO_1.124",
+            "name": "PeriodicTablePRO",
             "bundleIdentifier": "cypwn.PeriodicTablePRO_1.124.1.124",
             "developerName": "PeriodicTablePRO_1.124 x CyPwn",
             "version": "1.124",
@@ -243,7 +243,7 @@
             ]
         },
         {
-            "name": "ESign_4.8.1",
+            "name": "ESign",
             "bundleIdentifier": "cypwn.ESign_4.8.1.4.8.1",
             "developerName": "ESign_4.8.1 x CyPwn",
             "version": "4.8.1",
@@ -258,7 +258,7 @@
             ]
         },
         {
-            "name": "BHTwitter_3.9.1_9.44",
+            "name": "BHTwitter",
             "bundleIdentifier": "cypwn.BHTwitter_3.9.1_9.44.9.44",
             "developerName": "BHTwitter_3.9.1_9.44 x CyPwn",
             "version": "9.44",
@@ -273,7 +273,7 @@
             ]
         },
         {
-            "name": "DramaFlix_1.1.0",
+            "name": "DramaFlix",
             "bundleIdentifier": "cypwn.DramaFlix_1.1.0.1.1.0",
             "developerName": "DramaFlix_1.1.0 x CyPwn",
             "version": "1.1.0",
@@ -288,7 +288,7 @@
             ]
         },
         {
-            "name": "Cowabunga10",
+            "name": "Cowabunga",
             "bundleIdentifier": "cypwn.Cowabunga10.10.0.0",
             "developerName": "Cowabunga10 x CyPwn",
             "version": "10.0.0",
@@ -303,7 +303,7 @@
             ]
         },
         {
-            "name": "Dead_Cells_plus_v3.2.2",
+            "name": "Dead_Cells_plus",
             "bundleIdentifier": "cypwn.Dead_Cells_plus_v3.2.2.3.2.2",
             "developerName": "Dead_Cells_plus_v3.2.2 x CyPwn",
             "version": "3.2.2",
@@ -318,7 +318,7 @@
             ]
         },
         {
-            "name": "PicsArtGold_21.8.6",
+            "name": "PicsArtGold",
             "bundleIdentifier": "cypwn.PicsArtGold_21.8.6.21.8.6",
             "developerName": "PicsArtGold_21.8.6 x CyPwn",
             "version": "21.8.6",
@@ -348,7 +348,7 @@
             ]
         },
         {
-            "name": "FacebookNoAds_401.0",
+            "name": "FacebookNoAds",
             "bundleIdentifier": "cypwn.FacebookNoAds_401.0.401.0",
             "developerName": "FacebookNoAds_401.0 x CyPwn",
             "version": "401.0",
@@ -363,7 +363,7 @@
             ]
         },
         {
-            "name": "BazaartPremium_9.5.4",
+            "name": "BazaartPremium",
             "bundleIdentifier": "cypwn.BazaartPremium_9.5.4.9.5.4",
             "developerName": "BazaartPremium_9.5.4 x CyPwn",
             "version": "9.5.4",
@@ -378,7 +378,7 @@
             ]
         },
         {
-            "name": "DarkCloud_6.16.1",
+            "name": "DarkCloud",
             "bundleIdentifier": "cypwn.DarkCloud_6.16.1.6.16.1",
             "developerName": "DarkCloud_6.16.1 x CyPwn",
             "version": "6.16.1",
@@ -393,7 +393,7 @@
             ]
         },
         {
-            "name": "SpeedTestPremium_4.5.2",
+            "name": "SpeedTestPremium",
             "bundleIdentifier": "cypwn.SpeedTestPremium_4.5.2.4.5.2",
             "developerName": "SpeedTestPremium_4.5.2 x CyPwn",
             "version": "4.5.2",
@@ -423,7 +423,7 @@
             ]
         },
         {
-            "name": "KillMyOTA-1.1",
+            "name": "KillMyOTA",
             "bundleIdentifier": "cypwn.KillMyOTA-1.1.1.1",
             "developerName": "KillMyOTA-1.1 x CyPwn",
             "version": "1.1",
@@ -483,7 +483,7 @@
             ]
         },
         {
-            "name": "BeReal_0.31.0",
+            "name": "BeReal",
             "bundleIdentifier": "cypwn.BeReal_0.31.0.0.31.0",
             "developerName": "BeReal_0.31.0 x CyPwn",
             "version": "0.31.0",
@@ -498,7 +498,7 @@
             ]
         },
         {
-            "name": "Ally_2.0.23",
+            "name": "Ally",
             "bundleIdentifier": "cypwn.Ally_2.0.23.2.0.23",
             "developerName": "Ally_2.0.23 x CyPwn",
             "version": "2.0.23",
@@ -513,7 +513,7 @@
             ]
         },
         {
-            "name": "Morfic_1.5",
+            "name": "Morfic",
             "bundleIdentifier": "cypwn.Morfic_1.5.1.5",
             "developerName": "Morfic_1.5 x CyPwn",
             "version": "1.5",
@@ -528,7 +528,7 @@
             ]
         },
         {
-            "name": "Keka_1.0.1",
+            "name": "Keka",
             "bundleIdentifier": "cypwn.Keka_1.0.1.1.0.1",
             "developerName": "Keka_1.0.1 x CyPwn",
             "version": "1.0.1",
@@ -543,7 +543,7 @@
             ]
         },
         {
-            "name": "ProCamera_15.5.1",
+            "name": "ProCamera",
             "bundleIdentifier": "cypwn.ProCamera_15.5.1.15.5.1",
             "developerName": "ProCamera_15.5.1 x CyPwn",
             "version": "15.5.1",
@@ -558,7 +558,7 @@
             ]
         },
         {
-            "name": "McClockface.1.5.1",
+            "name": "McClockface",
             "bundleIdentifier": "cypwn.McClockface.1.5.1.1.5.1",
             "developerName": "McClockface.1.5.1 x CyPwn",
             "version": "1.5.1",
@@ -603,7 +603,7 @@
             ]
         },
         {
-            "name": "SharkMessenger_388.0",
+            "name": "SharkMessenger",
             "bundleIdentifier": "cypwn.SharkMessenger_388.0.388.0",
             "developerName": "SharkMessenger_388.0 x CyPwn",
             "version": "388.0",
@@ -618,7 +618,7 @@
             ]
         },
         {
-            "name": "Sonic_3.5",
+            "name": "Sonic",
             "bundleIdentifier": "cypwn.Sonic_3.5.3.5",
             "developerName": "Sonic_3.5 x CyPwn",
             "version": "3.5",
@@ -633,7 +633,7 @@
             ]
         },
         {
-            "name": "Summon_1.8_Satella",
+            "name": "Summon_Satella",
             "bundleIdentifier": "cypwn.Summon_1.8_Satella.1.8",
             "developerName": "Summon_1.8_Satella x CyPwn",
             "version": "1.8",
@@ -648,7 +648,7 @@
             ]
         },
         {
-            "name": "Vinegar_2.4.2",
+            "name": "Vinegar",
             "bundleIdentifier": "cypwn.Vinegar_2.4.2.2.4.2",
             "developerName": "Vinegar_2.4.2 x CyPwn",
             "version": "2.4.2",
@@ -663,7 +663,7 @@
             ]
         },
         {
-            "name": "HeadsUp_5.1.41_Satella",
+            "name": "HeadsUp_Satella",
             "bundleIdentifier": "cypwn.HeadsUp_5.1.41_Satella.5.1.41",
             "developerName": "HeadsUp_5.1.41_Satella x CyPwn",
             "version": "5.1.41",
@@ -678,7 +678,7 @@
             ]
         },
         {
-            "name": "NFCToolsPro_2.24",
+            "name": "NFCToolsPro",
             "bundleIdentifier": "cypwn.NFCToolsPro_2.24.2.24",
             "developerName": "NFCToolsPro_2.24 x CyPwn",
             "version": "2.24",
@@ -693,7 +693,7 @@
             ]
         },
         {
-            "name": "Pandolife1.1a_2211.1",
+            "name": "Pandolife1.1a",
             "bundleIdentifier": "cypwn.Pandolife1.1a_2211.1.2211.1",
             "developerName": "Pandolife1.1a_2211.1 x CyPwn",
             "version": "2211.1",
@@ -708,7 +708,7 @@
             ]
         },
         {
-            "name": "StarVPN_3.6.0",
+            "name": "StarVPN",
             "bundleIdentifier": "cypwn.StarVPN_3.6.0.3.6.0",
             "developerName": "StarVPN_3.6.0 x CyPwn",
             "version": "3.6.0",
@@ -723,7 +723,7 @@
             ]
         },
         {
-            "name": "RadarbotVIP_8.7.1",
+            "name": "RadarbotVIP",
             "bundleIdentifier": "cypwn.RadarbotVIP_8.7.1.8.7.1",
             "developerName": "RadarbotVIP_8.7.1 x CyPwn",
             "version": "8.7.1",
@@ -738,7 +738,7 @@
             ]
         },
         {
-            "name": "VidList_0.5.1",
+            "name": "VidList",
             "bundleIdentifier": "cypwn.VidList_0.5.1.0.5.1",
             "developerName": "VidList_0.5.1 x CyPwn",
             "version": "0.5.1",
@@ -768,7 +768,7 @@
             ]
         },
         {
-            "name": "ChromaHue_2.1.0",
+            "name": "ChromaHue",
             "bundleIdentifier": "cypwn.ChromaHue_2.1.0.2.1.0",
             "developerName": "ChromaHue_2.1.0 x CyPwn",
             "version": "2.1.0",
@@ -783,7 +783,7 @@
             ]
         },
         {
-            "name": "Ulysses_27.3k",
+            "name": "Ulysses",
             "bundleIdentifier": "cypwn.Ulysses_27.3k.27.3",
             "developerName": "Ulysses_27.3k x CyPwn",
             "version": "27.3",
@@ -813,7 +813,7 @@
             ]
         },
         {
-            "name": "TransparentAppIcons_1.6.0",
+            "name": "TransparentAppIcons",
             "bundleIdentifier": "cypwn.TransparentAppIcons_1.6.0.1.6.0",
             "developerName": "TransparentAppIcons_1.6.0 x CyPwn",
             "version": "1.6.0",
@@ -828,7 +828,7 @@
             ]
         },
         {
-            "name": "SuperMario64_60FPS_1.2.1",
+            "name": "SuperMario64_",
             "bundleIdentifier": "cypwn.SuperMario64_60FPS_1.2.1.1.2.1",
             "developerName": "SuperMario64_60FPS_1.2.1 x CyPwn",
             "version": "1.2.1",
@@ -843,7 +843,7 @@
             ]
         },
         {
-            "name": "SuperMario64_30FPS_1.2.1",
+            "name": "SuperMario64",
             "bundleIdentifier": "cypwn.SuperMario64_30FPS_1.2.1.1.2.1",
             "developerName": "SuperMario64_30FPS_1.2.1 x CyPwn",
             "version": "1.2.1",
@@ -888,7 +888,7 @@
             ]
         },
         {
-            "name": "WallpapersCentralPro_1.5.2",
+            "name": "WallpapersCentralPro",
             "bundleIdentifier": "cypwn.WallpapersCentralPro_1.5.2.1.5.2",
             "developerName": "WallpapersCentralPro_1.5.2 x CyPwn",
             "version": "1.5.2",
@@ -903,7 +903,7 @@
             ]
         },
         {
-            "name": "LiveWallpapersForMe_2.42.2",
+            "name": "LiveWallpapersForMe",
             "bundleIdentifier": "cypwn.LiveWallpapersForMe_2.42.2.2.42.2",
             "developerName": "LiveWallpapersForMe_2.42.2 x CyPwn",
             "version": "2.42.2",
@@ -918,7 +918,7 @@
             ]
         },
         {
-            "name": "YouCamPerfect_5.76.1",
+            "name": "YouCamPerfect",
             "bundleIdentifier": "cypwn.YouCamPerfect_5.76.1.5.76.1",
             "developerName": "YouCamPerfect_5.76.1 x CyPwn",
             "version": "5.76.1",
@@ -933,7 +933,7 @@
             ]
         },
         {
-            "name": "Star_Map_2.6_Satella",
+            "name": "Star_Map_Satella",
             "bundleIdentifier": "cypwn.Star_Map_2.6_Satella.2.6",
             "developerName": "Star_Map_2.6_Satella x CyPwn",
             "version": "2.6",
@@ -948,7 +948,7 @@
             ]
         },
         {
-            "name": "RefacePro_3.12.0",
+            "name": "RefacePro",
             "bundleIdentifier": "cypwn.RefacePro_3.12.0.3.12.0",
             "developerName": "RefacePro_3.12.0 x CyPwn",
             "version": "3.12.0",
@@ -1023,7 +1023,7 @@
             ]
         },
         {
-            "name": "playSub_2022.3",
+            "name": "playSub",
             "bundleIdentifier": "cypwn.playSub_2022.3.2022.3",
             "developerName": "playSub_2022.3 x CyPwn",
             "version": "2022.3",
@@ -1053,7 +1053,7 @@
             ]
         },
         {
-            "name": "Alarmy_6.68.0+Satella",
+            "name": "Alarmy+Satella",
             "bundleIdentifier": "cypwn.Alarmy_6.68.0+Satella.6.68.0",
             "developerName": "Alarmy_6.68.0+Satella x CyPwn",
             "version": "6.68.0",
@@ -1068,7 +1068,7 @@
             ]
         },
         {
-            "name": "Adobe_Express_11.3.0+Satella",
+            "name": "Adobe_Express+Satella",
             "bundleIdentifier": "cypwn.Adobe_Express_11.3.0+Satella.11.3.0",
             "developerName": "Adobe_Express_11.3.0+Satella x CyPwn",
             "version": "11.3.0",
@@ -1083,7 +1083,7 @@
             ]
         },
         {
-            "name": "Pixelmator2.7.3",
+            "name": "Pixelmator",
             "bundleIdentifier": "cypwn.Pixelmator2.7.3.2.7.3",
             "developerName": "Pixelmator2.7.3 x CyPwn",
             "version": "2.7.3",
@@ -1098,7 +1098,7 @@
             ]
         },
         {
-            "name": "Flightradar24_8.18.5_1661313131",
+            "name": "Flightradar",
             "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
             "developerName": "Flightradar24_8.18.5_1661313131 x CyPwn",
             "version": "8.18.5",
@@ -1113,7 +1113,7 @@
             ]
         },
         {
-            "name": "FineReader_PDF_Pro_15.4.2",
+            "name": "FineReader_PDF_Pro",
             "bundleIdentifier": "cypwn.FineReader_PDF_Pro_15.4.2.15.4.2",
             "developerName": "FineReader_PDF_Pro_15.4.2 x CyPwn",
             "version": "15.4.2",
@@ -1128,7 +1128,7 @@
             ]
         },
         {
-            "name": "VideoShow_5.7.5",
+            "name": "VideoShow",
             "bundleIdentifier": "cypwn.VideoShow_5.7.5.5.7.5",
             "developerName": "VideoShow_5.7.5 x CyPwn",
             "version": "5.7.5",
@@ -1143,7 +1143,7 @@
             ]
         },
         {
-            "name": "iTablaPro_11.6.1",
+            "name": "iTablaPro",
             "bundleIdentifier": "cypwn.iTablaPro_11.6.1.11.6.1",
             "developerName": "iTablaPro_11.6.1 x CyPwn",
             "version": "11.6.1",
@@ -1158,7 +1158,7 @@
             ]
         },
         {
-            "name": "HdoPlay-1-0-2-JKCrack",
+            "name": "HdoPlay",
             "bundleIdentifier": "cypwn.HdoPlay-1-0-2-JKCrack.1.0.2",
             "developerName": "HdoPlay-1-0-2-JKCrack x CyPwn",
             "version": "1.0.2",
@@ -1203,7 +1203,7 @@
             ]
         },
         {
-            "name": "Wallcraft_Pro_2.8",
+            "name": "Wallcraft_Pro",
             "bundleIdentifier": "cypwn.Wallcraft_Pro_2.8.2.8",
             "developerName": "Wallcraft_Pro_2.8 x CyPwn",
             "version": "2.8",
@@ -1233,7 +1233,7 @@
             ]
         },
         {
-            "name": "Spotify++8.6.94_Cypwn",
+            "name": "Spotify++",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "Spotify++8.6.94_Cypwn x CyPwn",
             "version": "8.6.94",
@@ -1248,7 +1248,7 @@
             ]
         },
         {
-            "name": "PostBox-0.8-beta",
+            "name": "PostBox-beta",
             "bundleIdentifier": "cypwn.PostBox-0.8-beta.0.8",
             "developerName": "PostBox-0.8-beta x CyPwn",
             "version": "0.8",
@@ -1263,7 +1263,7 @@
             ]
         },
         {
-            "name": "kok3shidoll_v2.2.1",
+            "name": "kok3shidoll",
             "bundleIdentifier": "cypwn.kok3shidoll_v2.2.1.2.2.1",
             "developerName": "kok3shidoll_v2.2.1 x CyPwn",
             "version": "2.2.1",
@@ -1278,7 +1278,7 @@
             ]
         },
         {
-            "name": "Sync.ME_VIP_11.17.3",
+            "name": "Sync.ME_VIP",
             "bundleIdentifier": "cypwn.Sync.ME_VIP_11.17.3.11.17.3",
             "developerName": "Sync.ME_VIP_11.17.3 x CyPwn",
             "version": "11.17.3",
@@ -1293,7 +1293,7 @@
             ]
         },
         {
-            "name": "VivaVideo_VIP_9.3.6",
+            "name": "VivaVideo_VIP",
             "bundleIdentifier": "cypwn.VivaVideo_VIP_9.3.6.9.3.6",
             "developerName": "VivaVideo_VIP_9.3.6 x CyPwn",
             "version": "9.3.6",
@@ -1308,7 +1308,7 @@
             ]
         },
         {
-            "name": "ClarityWallpaperPro7.2.6",
+            "name": "ClarityWallpaperPro",
             "bundleIdentifier": "cypwn.ClarityWallpaperPro7.2.6.7.2.6",
             "developerName": "ClarityWallpaperPro7.2.6 x CyPwn",
             "version": "7.2.6",
@@ -1323,7 +1323,7 @@
             ]
         },
         {
-            "name": "DualgramPro_1.22",
+            "name": "DualgramPro",
             "bundleIdentifier": "cypwn.DualgramPro_1.22.1.22",
             "developerName": "DualgramPro_1.22 x CyPwn",
             "version": "1.22",
@@ -1338,7 +1338,7 @@
             ]
         },
         {
-            "name": "remoteMousePro_4.211",
+            "name": "remoteMousePro",
             "bundleIdentifier": "cypwn.remoteMousePro_4.211.4.211",
             "developerName": "remoteMousePro_4.211 x CyPwn",
             "version": "4.211",
@@ -1353,7 +1353,7 @@
             ]
         },
         {
-            "name": "Dystopia_0.01",
+            "name": "Dystopia",
             "bundleIdentifier": "cypwn.Dystopia_0.01.0.01",
             "developerName": "Dystopia_0.01 x CyPwn",
             "version": "0.01",
@@ -1368,7 +1368,7 @@
             ]
         },
         {
-            "name": "Retro_0.2~88",
+            "name": "Retro",
             "bundleIdentifier": "cypwn.Retro_0.2~88.0.2",
             "developerName": "Retro_0.2~88 x CyPwn",
             "version": "0.2",
@@ -1383,7 +1383,7 @@
             ]
         },
         {
-            "name": "ScreenshotX1.0",
+            "name": "ScreenshotX",
             "bundleIdentifier": "cypwn.ScreenshotX1.0.1.0",
             "developerName": "ScreenshotX1.0 x CyPwn",
             "version": "1.0",
@@ -1398,7 +1398,7 @@
             ]
         },
         {
-            "name": "ScreenSaver++1.3.1",
+            "name": "ScreenSaver++",
             "bundleIdentifier": "cypwn.ScreenSaver++1.3.1.1.3.1",
             "developerName": "ScreenSaver++1.3.1 x CyPwn",
             "version": "1.3.1",
@@ -1413,7 +1413,7 @@
             ]
         },
         {
-            "name": "OldOS_1.0.18",
+            "name": "OldOS",
             "bundleIdentifier": "cypwn.oldOS.oldOS",
             "developerName": "OldOS_1.0.18 x CyPwn",
             "version": "1.0.18",
@@ -1428,7 +1428,7 @@
             ]
         },
         {
-            "name": "Provenance2.1",
+            "name": "Provenance",
             "bundleIdentifier": "org.provenance-emu.provenance",
             "developerName": "Provenance2.1 x CyPwn",
             "version": "2.1.0",
